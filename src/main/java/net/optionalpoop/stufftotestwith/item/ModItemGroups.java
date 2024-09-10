@@ -1,7 +1,6 @@
 package net.optionalpoop.stufftotestwith.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
-import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
@@ -19,6 +18,8 @@ public class ModItemGroups {
                         entries.add(ModItems.RUBY);
                         entries.add(ModItems.SONIC);
                         entries.add(ModItems.SIGMA);
+
+                        entries.add(ModItems.METAL_DETECTOR);
 
                         entries.add(ModBlocks.POULTRYMAN);
                         entries.add(ModBlocks.PIKACHU);
