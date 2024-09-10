@@ -14,10 +14,12 @@ import net.minecraft.util.Identifier;
 public class ModItems {
     public static final Item RUBY = registerItem("ruby", new Item(new FabricItemSettings()));
     public static final Item SONIC = registerItem("sonic", new Item(new FabricItemSettings()));
+    public static final Item SIGMA = registerItem("sigma", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries) {
         entries.add(RUBY);
         entries.add(SONIC);
+        entries.add(SIGMA);
     }
 
     private static Item registerItem(String name, Item item) {

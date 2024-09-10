@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\resources",
+    "\\src\\main\\resources\\assets",
+    "\\src\\main\\resources\\assets\\stufftotestwith",
+    "\\src\\main\\resources\\assets\\stufftotestwith\\models",
+    "\\src\\main\\resources\\assets\\stufftotestwith\\models\\item",
+    "\\src\\main\\resources\\assets\\stufftotestwith\\textures",
+    "\\src\\main\\resources\\assets\\stufftotestwith\\textures\\item"
+  ],
+  "SelectedNode": "\\src\\main\\java\\net\\optionalpoop\\stufftotestwith\\item\\ModItems.java",
+  "PreviewInSolutionExplorer": false
+}
