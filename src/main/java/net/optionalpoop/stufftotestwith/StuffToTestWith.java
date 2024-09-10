@@ -2,6 +2,7 @@ package net.optionalpoop.stufftotestwith;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.optionalpoop.stufftotestwith.block.ModBlocks;
 import net.optionalpoop.stufftotestwith.item.ModItemGroups;
 import net.optionalpoop.stufftotestwith.item.ModItems;
 import org.slf4j.Logger;
@@ -14,6 +15,8 @@ public class StuffToTestWith implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItem();
+		ModBlocks.registerModBlocks();
 	}
 }

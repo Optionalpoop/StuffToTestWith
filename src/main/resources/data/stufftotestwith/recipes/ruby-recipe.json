@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "stufftotestwith:poultryman"
+    },
+    {
+      "item": "stufftotestwith:sigma"
+    }
+  ],
+  "result": {
+    "item": "stufftotestwith:ruby",
+    "count": 17
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#P#",
+    "###"
+  ],
+  "key":{
+    "#": {
+      "item": "stufftotestwith:sigma"
+    },
+    "P": {
+      "item": "stufftotestwith:poultryman"
+    }
+  },
+  "result": {
+    "item": "stufftotestwith:pikachu"
+  }
+}

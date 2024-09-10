@@ -1,7 +1,10 @@
 {
     "item.stufftotestwith.ruby": "Ruby",
     "item.stufftotestwith.sonic": "Sonic",
-    "item.stufftotestwith.sigma": "sigma",
+    "item.stufftotestwith.sigma": "Sigma",
 
-    "itemgroup.ruby": "Ruby Tutorial Group"
+    "block.stufftotestwith.poultryman": "Poultry Man",
+    "block.stufftotestwith.pikachu": "Pikachu..?",
+
+    "itemgroup.ruby": "Stuff To Test With"
 }
