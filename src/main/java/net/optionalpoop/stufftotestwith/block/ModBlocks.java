@@ -12,6 +12,7 @@ import net.minecraft.registry.RegistryBuilder;
 import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.optionalpoop.stufftotestwith.StuffToTestWith;
+import net.optionalpoop.stufftotestwith.block.custom.SoundBlock;
 
 
 public class ModBlocks {
@@ -20,6 +21,9 @@ public class ModBlocks {
     public static final Block PIKACHU = registerBlock("pikachu",
             new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
 
+
+    public static final Block MUSICMAN = registerBlock("musicman",
+            new SoundBlock(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);

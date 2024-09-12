@@ -2,6 +2,7 @@ package net.optionalpoop.stufftotestwith;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.optionalpoop.stufftotestwith.block.ModBlocks;
 import net.optionalpoop.stufftotestwith.item.ModItemGroups;
 import net.optionalpoop.stufftotestwith.item.ModItems;
@@ -18,5 +19,7 @@ public class StuffToTestWith implements ModInitializer {
 
 		ModItems.registerModItem();
 		ModBlocks.registerModBlocks();
+
+		FuelRegistry.INSTANCE.add(ModItems.YOURBROTHERISDEAD, 936000);
 	}
 }

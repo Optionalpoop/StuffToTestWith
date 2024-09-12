@@ -16,6 +16,9 @@ public class ModItems {
     public static final Item RUBY = registerItem("ruby", new Item(new FabricItemSettings()));
     public static final Item SONIC = registerItem("sonic", new Item(new FabricItemSettings()));
     public static final Item SIGMA = registerItem("sigma", new Item(new FabricItemSettings()));
+    public static final Item YOURBROTHERISDEAD = registerItem("yourbrotherisdead", new Item(new FabricItemSettings()));
+
+    public static final Item BARTSIMPSON = registerItem("bartsimpson", new Item(new FabricItemSettings().food(ModFoodComponents.BARTSIMPSON)));
 
     public static final Item METAL_DETECTOR = registerItem("metal_detector",
             new MetalDetectorItem(new FabricItemSettings().maxDamage(64)));

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "stufftotestwith:sigma"
+    },
+    {
+      "item": "stufftotestwith:sigma"
+    },
+    {
+      "item": "stufftotestwith:sigma"
+    },
+    {
+      "item": "stufftotestwith:sigma"
+    },
+    {
+      "item": "stufftotestwith:sigma"
+    },
+    {
+      "item": "stufftotestwith:sigma"
+    },
+    {
+      "item": "stufftotestwith:sigma"
+    }
+  ],
+  "result": {
+    "item": "stufftotestwith:yourbrotherisdead",
+    "count": 1
+  }
+}

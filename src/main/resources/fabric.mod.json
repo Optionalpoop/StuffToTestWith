@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "stufftotestwith",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "StuffToTestWith",
 	"description": "This is a project for creating my first Fabric Minecraft mod!",
 	"authors": [

@@ -18,8 +18,13 @@ public class ModItemGroups {
                         entries.add(ModItems.RUBY);
                         entries.add(ModItems.SONIC);
                         entries.add(ModItems.SIGMA);
+                        entries.add(ModItems.YOURBROTHERISDEAD);
+
+                        entries.add(ModItems.BARTSIMPSON);
 
                         entries.add(ModItems.METAL_DETECTOR);
+
+                        entries.add(ModBlocks.MUSICMAN);
 
                         entries.add(ModBlocks.POULTRYMAN);
                         entries.add(ModBlocks.PIKACHU);

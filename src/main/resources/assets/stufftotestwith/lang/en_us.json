@@ -2,11 +2,19 @@
     "item.stufftotestwith.ruby": "I... am Steve!",
     "item.stufftotestwith.sonic": "Sonic",
     "item.stufftotestwith.sigma": "Sigma",
+    "item.stufftotestwith.yourbrotherisdead": "Your brother is dead",
+
+    "item.stufftotestwith.bartsimpson": "Bart Simpson",
 
     "block.stufftotestwith.poultryman": "Poultry Man",
     "block.stufftotestwith.pikachu": "Pikachu",
 
     "item.stufftotestwith.metal_detector": "Metal Detector",
+
+    "block.stufftotestwith.musicman": "Music Man",
+
+    "tooltip.stufftotestwith.metal_detector.tooltip": "Sussy stick that finds valuable ores undergwound!",
+    "tooltip.stufftotestwith.musicman.tooltip": "MUUUUUUUUUSIC MAAAAAN! (Rip MatPat)",
 
     "itemgroup.ruby": "Stuff To Test With"
 }
