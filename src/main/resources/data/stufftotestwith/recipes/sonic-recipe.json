@@ -1,20 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "pattern": [
-    "###",
-    "#P#",
-    "###"
-  ],
-  "key":{
-    "#": {
-      "item": "stufftotestwith:poultryman"
+  "type:": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "stufftotestwith:sigma"
     },
-    "P": {
-      "item": "stufftotestwith:pikachu"
+    {
+      "item": "stufftotestwith:yourbrotherisdead"
     }
-  },
+  ],
   "result": {
-    "item": "stufftotestwith:sonic"
+    "item": "stufftotestwith:sonic",
+    "count": 22
   }
 }

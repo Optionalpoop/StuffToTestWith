@@ -11,10 +11,10 @@
       "item": "stufftotestwith:sigma"
     },
     "S": {
-      "item": "minecraft:cooked_beef"
+      "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "stufftotestwith:bartsimpson"
+    "item": "stufftotestwith:metal_detector"
   }
 }

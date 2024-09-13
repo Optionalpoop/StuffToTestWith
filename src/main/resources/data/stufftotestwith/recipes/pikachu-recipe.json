@@ -1,20 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "pattern": [
-    "###",
-    "#P#",
-    "###"
-  ],
-  "key":{
-    "#": {
+  "type:": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
       "item": "stufftotestwith:sigma"
-    },
-    "P": {
-      "item": "stufftotestwith:poultryman"
     }
-  },
+  ],
   "result": {
-    "item": "stufftotestwith:pikachu"
+    "item": "stufftotestwith:pikachu",
+    "count": 7
   }
 }

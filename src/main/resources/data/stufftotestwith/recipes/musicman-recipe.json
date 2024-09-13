@@ -1,20 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "pattern": [
-    "###",
-    "#P#",
-    "###"
-  ],
-  "key":{
-    "#": {
+  "type:": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
       "item": "stufftotestwith:sigma"
     },
-    "P": {
-      "item": "minecraft:jukebox"
+    {
+      "item": "stufftotestwith:sigma"
     }
-  },
+  ],
   "result": {
-    "item": "stufftotestwith:musicman"
+    "item": "stufftotestwith:musicman",
+    "count": 4
   }
 }
