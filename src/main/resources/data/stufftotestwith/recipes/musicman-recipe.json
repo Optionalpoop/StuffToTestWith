@@ -1,6 +1,6 @@
 {
-  "type:": "minecraft:crafting_shapeless",
-  "category": "building",
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
   "ingredients": [
     {
       "item": "stufftotestwith:sigma"
@@ -11,6 +11,6 @@
   ],
   "result": {
     "item": "stufftotestwith:musicman",
-    "count": 4
+    "count": 6
   }
 }

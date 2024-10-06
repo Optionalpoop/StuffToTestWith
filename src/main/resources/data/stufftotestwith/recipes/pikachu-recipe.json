@@ -1,13 +1,12 @@
 {
-  "type:": "minecraft:crafting_shapeless",
-  "category": "building",
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
   "ingredients": [
     {
       "item": "stufftotestwith:sigma"
     }
   ],
   "result": {
-    "item": "stufftotestwith:pikachu",
-    "count": 7
+    "item": "stufftotestwith:pikachu"
   }
 }
